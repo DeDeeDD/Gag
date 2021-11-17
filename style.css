@@ -1,0 +1,23 @@
+body{
+    background-color: #3F6D59;
+}
+
+h1{
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+}
+.HeaderContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items:center;
+    height: 150px;
+    border-bottom: 1px solid gray;
+    
+}
+
+.gagsPic{
+    width: 13%;
+    height: 100%;
+}
